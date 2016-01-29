@@ -30,7 +30,8 @@ Courses
 -------
 
 ### Systems
-
+   Free online machine learning and data science courses on Edx https://www.edx.org/course/data-science-machine-learning-essentials-microsoft-dat203x-0
+   and Coursera https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiqyaChts_KAhWWB44KHYM4B0MQFggbMAA&url=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning&usg=AFQjCNFi71uTd6io7et3THdcBVsE4H3QRg&bvm=bv.113034660,d.c2E
 - [CS 61C](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
  	- [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar)
